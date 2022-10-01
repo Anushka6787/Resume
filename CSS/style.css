@@ -1,0 +1,93 @@
+.outer_box{
+    height:auto;
+    width:1200px;
+    border: solid 0px black;
+    margin: auto;
+    background-color:rgb(255, 248, 239);
+
+}
+
+.header{
+    height:300px;
+    width:1200px;
+    background-color: rgb(7, 7, 39);
+    border: solid 1px black;
+    margin:auto;
+
+}
+
+.photo_area{
+    height: 300px;
+    width: 300px;
+    border:  solid 0px black;
+    background-color: rgb(236, 202, 138);
+    border-radius: 150px;
+    margin-left: 70px;
+    margin-top: 140px;
+    float:left;
+}
+
+.image{
+height:300px;
+width:300px;
+border:solid 0px black;
+border-radius: 150px;
+}
+
+.text{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+color: aliceblue;
+font-size: 60px;
+padding-top: 40px;
+}
+
+.name_box{
+height:250px;
+width: 800px;
+border: 0px solid white;
+float:left;
+
+}
+
+.text2{
+font-size: 30px;
+color:aliceblue;
+text-align:left;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-left: 67px;
+margin-top: -20px;
+}
+
+.left_box{
+    height:auto;
+    width:500px;
+    border: solid 1px rgb(255, 248, 239);
+    margin-top: 130px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+
+.text3{
+    font-size:20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+}
+
+.right_box{
+    height:1200px;
+    width:500px;
+    border: solid 1px rgb(255, 248, 239)  ;
+    margin-top: -1287px;
+    margin-right:38px;
+    float:right;
+
+}
+
+.footer{
+    height:80px;
+    width:1200px;
+    background-color: rgb(7, 7, 39);
+    border: solid 1px black;
+    margin:auto;
+}
